@@ -5,9 +5,9 @@ Adding a Book:
 ![image](https://github.com/Ashwari/Book-Inventory/assets/93824879/70f1361e-1b55-47c6-ae98-dddc298bbf10)
 
 Editing a Book(Before):
-![image](https://github.com/Ashwari/Book-Inventory/assets/93824879/5c043098-a345-4028-b75d-676b6e342318)
+![image](https://github.com/Ashwari/Book-Inventory/assets/93824879/9b786a28-7719-4ddc-a141-00423a6b027b)
 
-Editing a Book(AFter):
+Editing a Book(After):
 ![image](https://github.com/Ashwari/Book-Inventory/assets/93824879/4ca3a248-9252-423f-aca7-9b2a4b37e690)
 
 Deleting a Book:
